@@ -17,7 +17,7 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 import android.widget.Toast;
-import it.unisa.di.weblab.polyrec.TPoint;
+import it.unisa.di.cluelab.polyrec.TPoint;
 
 public class MultiTouchPaintView extends View {
 	public static final int MAX_FINGERS = 5;

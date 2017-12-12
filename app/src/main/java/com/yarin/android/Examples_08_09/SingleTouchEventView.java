@@ -12,7 +12,7 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 import android.widget.Toast;
-import it.unisa.di.weblab.polyrec.TPoint;
+import it.unisa.di.cluelab.polyrec.TPoint;
 
 public class SingleTouchEventView extends View {
 	private Paint paint = new Paint();

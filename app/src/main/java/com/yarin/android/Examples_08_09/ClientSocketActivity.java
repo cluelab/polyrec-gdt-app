@@ -20,7 +20,7 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.Toast;
-import it.unisa.di.weblab.polyrec.TPoint;
+import it.unisa.di.cluelab.polyrec.TPoint;
 
 
 public class ClientSocketActivity extends Activity {
