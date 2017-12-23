@@ -1,4 +1,4 @@
-package com.yarin.android.Examples_08_09;
+package it.unisa.di.cluelab.polyrec.bluetooth.app;
 
 import java.io.IOException;
 import java.io.ObjectOutputStream;
@@ -10,13 +10,11 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Path;
-import android.graphics.PathMeasure;
 import android.graphics.RectF;
-import android.os.Handler;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
-import android.widget.Toast;
+
 import it.unisa.di.cluelab.polyrec.TPoint;
 
 public class MultiTouchPaintView extends View {

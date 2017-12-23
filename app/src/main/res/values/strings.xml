@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="hello">Hello World, Activity01!</string>
-	<string name="app_name">Bluetooth Gestures</string>
+	<string name="app_name">PolyRec GDT Bluetooth Gestures</string>
 	<string name="scan_message">Scan Bluetooth Devices and then select PC where PolyRec Application is running</string>
 	<string name="scan_button">Scan Devices</string>
 	<string name="permission_request">允许蓝牙请求</string>

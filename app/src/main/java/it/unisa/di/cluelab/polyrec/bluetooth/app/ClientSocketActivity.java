@@ -1,10 +1,9 @@
-package com.yarin.android.Examples_08_09;
+package it.unisa.di.cluelab.polyrec.bluetooth.app;
 
 import java.io.IOException;
 import java.io.ObjectOutputStream;
 import java.util.UUID;
 
-import android.app.ActionBar;
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
@@ -15,7 +14,6 @@ import android.os.Handler;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.ViewGroup.LayoutParams;
-import android.view.Window;
 import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.LinearLayout;

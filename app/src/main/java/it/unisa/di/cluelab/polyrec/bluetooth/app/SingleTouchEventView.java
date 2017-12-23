@@ -1,4 +1,4 @@
-package com.yarin.android.Examples_08_09;
+package it.unisa.di.cluelab.polyrec.bluetooth.app;
 
 import java.io.IOException;
 import java.io.ObjectOutputStream;
@@ -11,7 +11,7 @@ import android.graphics.Path;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
-import android.widget.Toast;
+
 import it.unisa.di.cluelab.polyrec.TPoint;
 
 public class SingleTouchEventView extends View {

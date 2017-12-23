@@ -5,9 +5,11 @@ android {
     buildToolsVersion "26.0.2"
 
     defaultConfig {
-        applicationId "com.yarin.android.Examples_08_09"
+        applicationId "it.unisa.di.cluelab.polyrec.bluetooth.app"
         minSdkVersion 14
         targetSdkVersion 23
+        versionCode 1
+        versionName "0.2.0"
     }
 
     buildTypes {

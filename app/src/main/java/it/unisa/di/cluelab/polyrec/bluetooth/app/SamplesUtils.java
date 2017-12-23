@@ -1,4 +1,4 @@
-package com.yarin.android.Examples_08_09;
+package it.unisa.di.cluelab.polyrec.bluetooth.app;
 
 import android.app.ProgressDialog;
 import android.content.Context;
